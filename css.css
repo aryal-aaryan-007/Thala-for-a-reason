@@ -1,0 +1,45 @@
+.Thala {
+    position: absolute;
+    height: 550px;
+    width: 350px;
+    background-color: antiquewhite;
+    margin-left: 580px;
+    margin-top: 120px;
+    z-index: 30;
+}
+
+.placeholder {
+    position: absolute;
+    margin-left: 60px;
+    padding-top: 8px;
+    border-radius: 10px;
+    width: 140px;
+    height: 20px;
+    padding-left: 7px;
+    font-size: 19px;
+}
+
+.buton {
+    margin-left: 220px;
+    padding-top: 8px;
+    border-radius: 10px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    font-size: 18px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    visibility: hidden;
+    z-index: 30;
+    position: absolute;
+    width: 350px;
+    margin-top: 30px;
+}
+
+.aud {
+    z-index: 0;
+}
